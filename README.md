@@ -1,0 +1,1 @@
+fluentd image with build tools
